@@ -23,6 +23,9 @@ cd holbertonschool-softy-pinko-docker
 ## 📁 Project Structure
 - `task0/` - Basic Docker container setup
   - `Dockerfile` - Simple Ubuntu-based container that prints "Hello, World!"
+- `task1/` - Python Flask API container
+  - `Dockerfile` - Ubuntu-based container with Python3, pip3, and Flask
+  - `api.py` - Simple Flask API that returns "Hello, World!" at the `/api/hello` endpoint
 
 ## 🛠️ Usage
 To build and run the Docker container in task0:
@@ -39,6 +42,7 @@ docker run softy-pinko-task0
 - Creating and managing Docker containers
 - Working with Dockerfiles
 - Best practices for containerization
+- Containerizing web applications and APIs
 
-## 👥 Authors
+## 👤 Author
 - Judith Espinal - Holberton Coding School Student
