@@ -41,11 +41,4 @@ docker run softy-pinko-task0
 - Best practices for containerization
 
 ## 👥 Authors
-- Your Name - Initial work
-
-## 📄 License
-This project is part of the Holberton School curriculum and is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-- Holberton School
-- Docker Community 
+- Judith Espinal - Holberton Coding School Student
